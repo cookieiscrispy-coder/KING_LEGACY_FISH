@@ -5,7 +5,7 @@
 ## 다운로드
 [![Download](https://github.com/cookieiscrispy-coder/KING_LEGACY_FISH/releases/tag/v0.0)]
 
-## 주의사항
+## 참고
 ```
 Copyright (c) 2025 땅콩총. All rights reserved.
 ```
